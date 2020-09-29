@@ -9,7 +9,7 @@ import { Questionaire } from './components';
 
 
 const API_URL_COMPUTERS = "https://opentdb.com/api.php?amount=20&category=18&difficulty=easy&type=multiple";
-const API_URL_MATH = "https://opentdb.com/api.php?amount=20&category=19&difficulty=easy&type=multiple";
+
 
 
 function App() {
