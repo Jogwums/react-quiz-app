@@ -62,7 +62,7 @@ function App() {
     <div className="container " > 
     {currentIndex >= questions.length ? (
       <h1 className="text-3xl text-white font-bold">
-        Game ended! Your score was {score}
+        Game ended! Your score was {score} / {questions.length}
       </h1>
   ) : (
        <Questionaire 
